@@ -8,7 +8,7 @@ minimum viable example of function
 2. Open in visual studio
 3. build
 
-no folder http recreated and function.json is then also missing
+no folder name `http` recreated and foøe `function.json` is then also missing
 
 ## Debug
 
