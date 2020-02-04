@@ -7,7 +7,9 @@
         "post"
       ],
       "authLevel": "anonymous",
-      "name": "req"
+      "name": "req",
+      "route": "httptest",
+      "direction": "in"
     }
   ],
   "disabled": false,
